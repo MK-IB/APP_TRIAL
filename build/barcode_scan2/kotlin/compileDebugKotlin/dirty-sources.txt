@@ -1,0 +1,7 @@
+C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan2-4.2.0\android\src\main\kotlin\de\mintware\barcode_scan\ActivityHelper.kt
+C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan2-4.2.0\android\src\main\kotlin\de\mintware\barcode_scan\BarcodeScannerActivity.kt
+C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan2-4.2.0\android\src\main\kotlin\de\mintware\barcode_scan\BarcodeScanPlugin.kt
+C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan2-4.2.0\android\src\main\kotlin\de\mintware\barcode_scan\ChannelHandler.kt
+C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan2-4.2.0\android\src\main\kotlin\de\mintware\barcode_scan\RequestCameraPermissionHandler.kt
+C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan2-4.2.0\android\src\main\kotlin\de\mintware\barcode_scan\ScanResultHandler.kt
+C:\src\flutter\flutter\.pub-cache\hosted\pub.dartlang.org\barcode_scan2-4.2.0\android\src\main\kotlin\de\mintware\barcode_scan\ZXingAutofocusScannerView.kt
